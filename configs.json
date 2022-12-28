@@ -1,0 +1,131 @@
+{
+  "enableTopicsExtractionYake": false,
+  "enableDataExtraction": true,
+  "enablePreProcessing": true,
+  "enableYake": true,
+  "enableLDA": false,
+  "enableGuidedLDA": false,
+  "enableSpacy": true,
+  "sites": [
+    {
+      "name": "Melbourne council",
+      "parent_folder": "aus",
+      "folder": "melbourne",
+      "url": "https://www.brisbane.qld.gov.au",
+      "base": "https://www.brisbane.qld.gov.au",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "preprocess_text": "completed",
+        "extract_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "ACT council",
+      "folder": "act",
+      "parent_folder": "aus",
+      "url": "https://www.brisbane.qld.gov.au",
+      "base": "https://www.brisbane.qld.gov.au",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "preprocess_text": "completed",
+        "extract_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "Sydney council",
+      "parent_folder": "aus",
+      "folder": "sydney",
+      "url": "https://www.brisbane.qld.gov.au",
+      "base": "https://www.brisbane.qld.gov.au",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "preprocess_text": "completed",
+        "extract_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "Ryde council",
+      "parent_folder": "aus",
+      "folder": "ryde",
+      "url": "https://www.brisbane.qld.gov.au",
+      "base": "https://www.brisbane.qld.gov.au",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "Brisbane council",
+      "parent_folder": "aus",
+      "folder": "brisbane",
+      "url": "https://www.brisbane.qld.gov.au",
+      "base": "https://www.brisbane.qld.gov.au",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "Bari council",
+      "parent_folder": "italy",
+      "folder": "bari",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "pending"
+      }
+    },
+    {
+      "name": "Genova council",
+      "parent_folder": "italy",
+      "folder": "genova",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    },
+    {
+      "name": "Sulmona council",
+      "parent_folder": "italy",
+      "folder": "sulmona",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "completed"
+      }
+    }
+  ]
+}
