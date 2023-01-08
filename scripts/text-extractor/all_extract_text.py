@@ -145,17 +145,18 @@ if __name__ == '__main__':
         if i.get('actions').get('download_pages') != 'completed':
             index = START_PAGE_INDEX
             os.makedirs('/Users/nuwan/Documents/scrapeData/' + i['parent_folder'] + "/" + i['folder'])
+            print(i['parent_folder'] + "/" + i['folder'])
             while index <= max_count and len(site_urls) > index:
                 url = site_urls[index]['url']
                 page_index = site_urls[index]['page']
                 if len(futures) > 50:
-                    done, not_done = wait(futures, return_when=concurrent.futures.ALL_COMPLETED)
+                    done, not_done = wait(futures, return_when=concurrent.futures.ALL_COMPLETED,timeout=120)
                     futures = []
                     # get_web_page(url, page_index)
                 future = executor.submit(download_web_page, url, page_index, i['parent_folder'], i['folder'])
                 futures.append(future)
                 index = index + 1
-                print(str(index) + '/' + max_count)
+                print(str(index) + '/' + str(max_count))
 
         if i.get('actions').get('extract_text') != 'completed':
             data_text = []
@@ -170,8 +171,8 @@ if __name__ == '__main__':
             df_l = df_l.applymap(lambda x: x.encode('unicode_escape').
                                  decode('utf-8') if isinstance(x, str) else x)
             try:
-                with pd.ExcelWriter('files/webPagesExtractedTexts.xls', mode='a') as writer:
+                with pd.ExcelWriter('files/webPagesExtractedTexts_'+i['folder']+'.xlsx', mode='w') as writer:
                     df_l.to_excel(writer, sheet_name=i['folder'])
-            except:
-                print()
+            except Exception as e:
+                print(e)
     print("End!!!")

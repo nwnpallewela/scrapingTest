@@ -98,6 +98,21 @@
       }
     },
     {
+      "name": "Emilia council",
+      "parent_folder": "italy",
+      "folder": "emilia",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "pending"
+      }
+    },
+    {
       "name": "Genova council",
       "parent_folder": "italy",
       "folder": "genova",
@@ -109,7 +124,7 @@
         "download_pages": "completed",
         "extract_text": "completed",
         "preprocess_text": "completed",
-        "match_key_phrases": "completed"
+        "match_key_phrases": "pending"
       }
     },
     {
@@ -124,7 +139,52 @@
         "download_pages": "completed",
         "extract_text": "completed",
         "preprocess_text": "completed",
-        "match_key_phrases": "completed"
+        "match_key_phrases": "pending"
+      }
+    },
+    {
+      "name": "Misterbianco council",
+      "parent_folder": "italy",
+      "folder": "misterbianco",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "pending"
+      }
+    },
+    {
+      "name": "Padova council",
+      "parent_folder": "italy",
+      "folder": "padova",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "pending"
+      }
+    },
+    {
+      "name": "Pesaro council",
+      "parent_folder": "italy",
+      "folder": "pesaro",
+      "url": "https://smart.comune.genova.it",
+      "base": "https://smart.comune.genova.it",
+      "actions": {
+        "add_site_urls": "completed",
+        "crawl_site": "completed",
+        "download_pages": "completed",
+        "extract_text": "completed",
+        "preprocess_text": "completed",
+        "match_key_phrases": "pending"
       }
     }
   ]

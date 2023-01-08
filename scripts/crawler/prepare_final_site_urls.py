@@ -18,3 +18,4 @@ if __name__ == '__main__':
                                       'url': row['url'], 'country': dirs[2]})
     all_sites_pd = pd.DataFrame(data=all_sites)
     all_sites_pd.to_csv('files/all_site_urls.csv')
+    print('Done')

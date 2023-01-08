@@ -1,0 +1,838 @@
+id,keyword
+0,sdg14
+1,sdg10
+2,sdg1
+3,sdg9
+4,sustainable development
+5,sdg8
+6,sdg3
+7,sdg16
+8,sdg6
+9,sdg17
+10,sdg12
+11,sdg11
+12,sdg15
+13,sdg13
+14,sdg
+15,sdg2
+16,sustainable development goals
+17,sdg7
+18,sdg4
+19,sdg5
+20,social protection systems
+21,financial inclusion
+22,essential services
+23,poverty line
+24,basic services
+25,extreme poverty
+26,disaster risk
+27,poverty
+28,income equality
+29,social protection
+30,non-discrimination
+31,poor and vulnerable
+32,poverty eradication
+33,end poverty
+34,wealth distribution
+35,asylum seeker
+36,microfinance
+37,economic resources
+38,quality of life
+39,improved nutrition
+40,starvation
+41,food in-security
+42,livestock gene banks
+43,wasting and food
+44,crop diversity
+45,sufficient food
+46,undernourished
+47,food waste
+48,hungry people
+49,seed and plant bank
+50,stunted growth
+51,food poverty
+52,nutritional needs
+53,genetic diversity of seeds
+54,sustainable food production
+55,sustainable food system
+56,hunger
+57,agriculture and sustainable
+58,agricultural orientation index
+59,small-scale food producers
+60,food insecure
+61,soil pollution
+62,malnourish
+63,nutritious
+64,sustainable agriculture
+65,world’s hungry
+66,agricultural imports
+67,resilient agriculture
+68,food price anomalies
+69,agricultural exports
+70,malnourished
+71,food reserves
+72,food gap
+73,nutrition
+74,food insecurity
+75,trade restrictions
+76,food security
+77,agricultural productivity
+78,genetic diversity
+79,stunting
+80,malnutrition
+81,trade diversity
+82,food production
+83,agricultural subsidy
+84,rural development
+85,antiretroviral
+86,substance abuse
+87,vaccines in developing countries
+88,early childhood development
+89,mortality rate
+90,epidemic eradication
+91,drug abuse
+92,antenatal care
+93,sexual and reproductive health-care
+94,alcoholism
+95,universal health
+96,family planning
+97,health risk
+98,refugees and health services
+99,sexual health
+100,maternal mortality
+101,sport participation rate
+102,tobacco control
+103,child deaths
+104,road traffic accidents
+105,vaccines
+106,soil contamination
+107,communicable disease
+108,health worker density
+109,treatment of substance abuse
+110,world health organisation
+111,immunisation
+112,material mortality
+113,universal healthcare
+114,preventable deaths
+115,alcohol abuse
+116,public health
+117,disability and inclusion
+118,disability and family support
+119,health in resource-constrained settings
+120,essential health services
+121,international health policy
+122,narcotic drug abuse
+123,water-borne disease
+124,infectious disease
+125,air contamination
+126,reproductive health
+127,affordable medicines
+128,bodily autonomy
+129,premature birth
+130,disability and politics of location
+131,neonatal mortality
+132,vaccination
+133,reducing mortality
+134,antiretroviral therapy
+135,improving mortality
+136,premature mortality
+137,universal health coverage
+138,mental health
+139,death rate
+140,increasing life expectancy
+141,contraceptive use
+142,water
+143,infant mortality
+144,healthy lives
+145,international health regulations
+146,access to clean water and sanitation
+147,cultural diversity
+148,lifelong learning
+149,global education
+150,education in developing countries
+151,basic literacy skills
+152,high school completion
+153,scholarship
+154,vocational training
+155,basic literacy
+156,secondary education
+157,tafe
+158,universal education
+159,literacy skills
+160,quality training
+161,post primary education
+162,scholarships
+163,equitable education
+164,school completion
+165,preprimary education
+166,qualified teachers
+167,early childhood education
+168,gender disparities in education
+169,learning opportunities
+170,vocational education
+171,quality education
+172,education for sustainability
+173,equal access
+174,inclusion and education
+175,neurodiverse
+176,teacher training
+177,primary education
+178,disability and education
+179,education facilities
+180,equal education
+181,refugees and learning
+182,primary school completion
+183,vocational skills
+184,school enrolment
+185,basic education
+186,access to education
+187,violence against women
+188,gender and discrimination
+189,gender violence
+190,gender equality
+191,women leader
+192,empowering women
+193,domestic work
+194,violence and girls
+195,violence and women
+196,gender equality/parity
+197,humanitarian
+198,exploitation and girls
+199,sexual exploitation
+200,empower girls
+201,contraception
+202,empowerment and women
+203,women's empowerment
+204,lgbtqi
+205,reproductive rights
+206,women's rights
+207,empowerment
+208,women empowerment
+209,forced marriage
+210,human trafficking
+211,empowering girls
+212,sexual  health
+213,gender inequality
+214,marginalised
+215,empower women
+216,empower and women
+217,exploitation and women
+218,female genital mutilation
+219,feminism
+220,governance and gender
+221,empowerment of women
+222,child marriage
+223,gender discrimination
+224,equal opportunities
+225,equal opportunity
+226,women in work
+227,contraceptive
+228,unpaid care
+229,sexual violence
+230,gender parity
+231,sexual and reproductive health
+232,workplace equality
+233,partner violence
+234,social inclusion
+235,violence against girls
+236,human rights
+237,drinking water
+238,clean water
+239,water scarcity
+240,water ecosystems
+241,water resources management
+242,drought
+243,inadequate water
+244,wastewater treatment
+245,irrigation
+246,waste water management
+247,ecosystem protection
+248,sanitation management
+249,sustainable water management
+250,water disasters
+251,water-related ecosystems
+252,diarrhoeal diseases
+253,accessible water
+254,inadequate water supply
+255,sanitation
+256,water harvesting
+257,ecosystem restoration
+258,water resources
+259,water use
+260,water-use efficiency
+261,sustainable withdrawals
+262,recycled water
+263,water management
+264,river basins
+265,contaminated water
+266,safe drinking water
+267,water quality
+268,equitable sanitation
+269,improving water
+270,water access
+271,water efficiency
+272,water ecosystem
+273,water supply
+274,water stress
+275,affordable drinking water
+276,sanitation and hygiene
+277,desalination
+278,untreated wastewater
+279,wastewater
+280,electricity infrastructure
+281,renewable power
+282,green economy
+283,energy research
+284,hydropower
+285,climate goal
+286,clean fuels
+287,energy efficiency
+288,affordable energy
+289,energy technology
+290,modern electricity
+291,sustainable and power
+292,electricity access
+293,clean fuel
+294,renewable energy production
+295,hydroelectric
+296,renewable
+297,reliable energy
+298,sustainable energy services
+299,renewable energy
+300,wind turbine
+301,sustainable and energy
+302,solar
+303,fossil fuel
+304,wind energy
+305,clean energy technology
+306,modern energy
+307,sustainable power
+308,solar power
+309,universal energy
+310,energy price
+311,renewable source
+312,solar panels
+313,alternative energy
+314,sustainable energy
+315,energy infrastructure
+316,wave power
+317,solar energy
+318,greenhouse gas emissions
+319,energy consumption
+320,cleaner fossil fuel technology
+321,greenhouse gas
+322,natural gas
+323,lithium battery
+324,wind power
+325,clean energy
+326,clean fuel technology
+327,energy mix
+328,child labour
+329,gross domestic product growth
+330,decouple economic growth
+331,migrant workers
+332,youth unemployment
+333,work opportunities
+334,access to finance
+335,creativity and innovation
+336,well-paid jobs
+337,productive employment
+338,equal pay
+339,precarious work
+340,modern slavery
+341,public policy
+342,decent work for all
+343,decent work
+344,sustainable economic growth
+345,development oriented policy
+346,unemployment
+347,youth employment
+348,quality jobs
+349,informal employment
+350,sustainable tourism
+351,economic growth
+352,secure work
+353,gross domestic product
+354,labor rights
+355,slavery
+356,casual staff
+357,sustainable consumption
+358,women migrants
+359,migrant labour
+360,stable jobs
+361,stable employment
+362,labour rights
+363,resource efficiency
+364,gdp growth
+365,labour market
+366,sustainable production
+367,development aid
+368,entrepreneurship
+369,safe work
+370,micro finance
+371,job creation
+372,economic productivity
+373,entrepreneurship and innovation
+374,global trade
+375,child soldiers
+376,social policies
+377,forced labour
+378,world trade
+379,financial services
+380,inclusive economic growth
+381,global resource efficiency
+382,aid for trade
+383,research capacity
+384,sustainable industrial development
+385,sustainable infrastructure
+386,4g
+387,internet access
+388,regional infrastructure
+389,industrial diversification
+390,affordable credit
+391,enterprises
+392,access to the internet
+393,technological capabilities
+394,value chains
+395,data banks
+396,environmentally sound technologies
+397,phone service
+398,information and communication technology
+399,transborder infrastructure
+400,electrical power
+401,innovation
+402,resource use efficiency
+403,foster innovation
+404,resilient infrastructure
+405,network infrastructure
+406,research and innovation
+407,technological capability
+408,research capability
+409,economic development
+410,manufacturing employment
+411,mobile network
+412,industrialisation
+413,ict infrastructure
+414,mobile networks in developing countries
+415,value chains and markets
+416,clean technologies
+417,5g
+418,high tech industries
+419,global manufacturing production
+420,mobile networks
+421,communications technology
+422,sustainable industrialisation
+423,internet infrastructure
+424,social capital
+425,vulnerable nations
+426,inequality
+427,discrimination
+428,affirmative action
+429,migrant
+430,disabilities
+431,foreign investment
+432,migration and mobility
+433,close the gap
+434,social class
+435,income inequality
+436,disability
+437,income growth
+438,development assistance
+439,racism
+440,reduce inequalities
+441,affordable housing
+442,ageism
+443,inequalities
+444,diversity and inclusion
+445,classism
+446,indigenous health
+447,migration policy
+448,homophobia
+449,sexism
+450,migration
+451,discrimination elimination
+452,discriminatory
+453,population growth
+454,socio-economic
+455,sex and inequality
+456,economic inclusion
+457,race and discriminate
+458,socio-economic status
+459,foreign aid
+460,income disparity
+461,global financial markets
+462,equality
+463,migrant remittance
+464,indigenous equality
+465,climate change
+466,sustainable urbanisation
+467,land consumption
+468,sustainable urbanisation (i added sustainable)
+469,over crowding
+470,city planning
+471,safe cities
+472,sustainable building
+473,town planning
+474,sustainable buildings
+475,sustainable transport
+476,physical or sexual harassment
+477,arts and heritage
+478,shanty
+479,cultural heritage
+480,informal settlements
+481,smart cities
+482,resilient buildings
+483,air pollution
+484,overcrowding
+485,urban planning
+486,urbanisation
+487,sustainable communities
+488,safe housing
+489,rural strategy
+490,sustainable and communities
+491,sustainable city
+492,disaster strategy
+493,public spaces
+494,resource needs
+495,natural heritage
+496,inadequate housing
+497,fine particulate matter
+498,natural disasters
+499,flood damage
+500,urban sustainability
+501,development planning
+502,road safety
+503,disaster management
+504,natural disaster
+505,urban policies
+506,waste management
+507,disaster risk reduction
+508,slums
+509,public transport
+510,local materials
+511,risk reduction strategy
+512,sustainable and city
+513,human settlements
+514,green spaces
+515,municipal waste management
+516,urban development
+517,heritage
+518,air quality
+519,sustainable cities
+520,chemical pollution
+521,agricultural waste
+522,reduce waste generation
+523,deep decarbonization
+524,green procurement
+525,green purchasing
+526,sustainability strategy
+527,responsible production chains
+528,efficient use of resources
+529,responsible management
+530,commercial enterprises
+531,food supply
+532,monitoring sustainable development
+533,future proof
+534,reduce waste
+535,fast fashion
+536,harvest losses
+537,responsible consumption
+538,global food waste
+539,sustainable resource use
+540,sustainable procurement
+541,construction waste
+542,sustainable practices
+543,fossil-fuel subsidies
+544,sustainable supply chain
+545,sustainability reporting
+546,natural resources
+547,recycle
+548,greenhouse gasses
+549,market distortions
+550,wasteful consumption
+551,food losses
+552,circular economy
+553,consumerism
+554,natural resource
+555,materialism
+556,fossil fuel subsidies
+557,sustainable purchasing
+558,renewable energy-generating capacity
+559,sustainable public procurement
+560,sustainable management
+561,energy use
+562,overconsumption
+563,recycling
+564,deep decarbonisation
+565,consumer levels
+566,material goods
+567,climate adaptation
+568,climate change policy
+569,resilience and adaptive capacity
+570,extreme weather events
+571,climate mitigation
+572,carbon emissions
+573,methane emissions
+574,average global temperature
+575,climate and politics
+576,increased temperature
+577,co2 capture
+578,forest fire
+579,climate impact
+580,low-carbon economy
+581,changing weather patterns
+582,global temperature
+583,climate change management
+584,climate hazards
+585,climate early warning
+586,rising sea
+587,extreme weather
+588,climate and infectious disease
+589,climate resilience
+590,sea level rise
+591,climate change planning
+592,global warming
+593,greenhouse gas emissions (i added gas emissions)
+594,climate action
+595,climate and gender
+596,rising sea level
+597,climate related hazards
+598,ocean warming
+599,co2 conversion
+600,nitrogen oxide emissions
+601,cop 26
+602,climate refugees
+603,rising temperature
+604,carbon mitigation
+605,ice loss
+606,global mean temperature
+607,paris agreement
+608,greenhouse gases
+609,coral reef
+610,aquaculture
+611,overexploitation and fish
+612,coastal protection
+613,fishery subsidies
+614,sustainable fishing
+615,healthy oceans
+616,artisanal fishers
+617,fish stocks
+618,coastal habitats
+619,fish stocks and fisheries management
+620,fishing practices
+621,marine parks
+622,sustainable ecosystems
+623,fishing licence
+624,oceanography
+625,illegal fishing
+626,coral bleaching
+627,marine fisheries
+628,ocean acidification
+629,marine ecosystem
+630,marine pollution
+631,marine ecosystems
+632,coastal biodiversity
+633,ocean conservation
+634,marine biodiversity
+635,marine life
+636,ocean sustainable use
+637,protect marine
+638,protected areas
+639,ecosystem management
+640,productive oceans
+641,unregulated fishing
+642,marine debris
+643,ocean temperature
+644,marine technology
+645,conserve oceans
+646,healthy sea
+647,ocean health
+648,marine resources
+649,overfishing
+650,coastal parks
+651,coastal ecosystem
+652,coastal resources
+653,coastal ecosystems
+654,conservation
+655,invasive alien species
+656,rewilding
+657,soil degradation
+658,sustainable forestry
+659,deforestation
+660,ecosystem
+661,sub-species
+662,habitat loss
+663,natural habitats
+664,mountain ecosystems
+665,manage forests
+666,afforestation
+667,reforestation
+668,strategic plan for biodiversity
+669,wetlands
+670,forest management
+671,biodiversity
+672,illicit trafficking
+673,land conservation
+674,invasive species
+675,genetic resources
+676,terrestrial ecosystems
+677,extinction
+678,protected flora
+679,land degradation
+680,biodiversity conservation
+681,permaculture
+682,protected species
+683,alien species
+684,managed forests
+685,manage forest
+686,land restoration
+687,sustainable forest
+688,illegal wildlife products
+689,land use and sustainability
+690,desertification
+691,wildlife
+692,biodiversity loss
+693,drylands
+694,threatened species
+695,arable land
+696,micro-organisms
+697,freshwater ecosystems
+698,protected fauna
+699,land loss
+700,wetland conservation
+701,extinct species
+702,poaching
+703,bribing
+704,corruption
+705,illicit financial flows
+706,arbitrary detention
+707,hate crime
+708,conflict resolution
+709,inclusion
+710,enforced disappearance
+711,illegal arms
+712,accountable institution
+713,inclusive society
+714,justice for all
+715,unsentenced detainees
+716,tax evasion
+717,stolen assets
+718,psychological abuse
+719,combat terrorism
+720,inclusive societies
+721,crime
+722,violence
+723,rule of law
+724,organised crime
+725,security threats
+726,bribery
+727,physical abuse
+728,victims of violence
+729,accountable institutions
+730,inclusive institutions
+731,representative decision-making
+732,sexual abuse
+733,un-sentenced detainees
+734,exploitation
+735,representative decisionmaking
+736,legal identity
+737,peaceful societies
+738,violence against women and children
+739,torture
+740,flow of arms
+741,transparency
+742,transparent institution
+743,justice
+744,organized crime
+745,legal system
+746,terrorism
+747,fundamental freedom
+748,paris principles
+749,deaths
+750,weapons
+751,violence rates
+752,national security
+753,weapon seizures
+754,prevent violence
+755,internally displaced
+756,arms trafficking
+757,strong institutions
+758,global governance
+759,unstable societies
+760,weapon
+761,money laundering
+762,multi-stakeholder partnerships
+763,build capacity
+764,world trade organization
+765,science cooperation agreements
+766,communication technologies
+767,debt sustainability
+768,international cooperation
+769,fair trade
+770,doha development agenda
+771,technology transfer
+772,global partnership for sustainable development
+773,financial sustainability
+774,developing countries
+775,collaboration for sustainability
+776,international support for developing countries
+777,capacity building
+778,weighted tariff average
+779,international aid
+780,international support
+781,global macroeconomic stability
+782,knowledge sharing
+783,partnership for sustainability
+784,multi-stakeholder
+785,global partnership
+786,international population
+787,public-private partnerships
+788,technology cooperation agreements
+789,public-private partnership
+790,free trade
+791,assist developing countries
+792,civil society partnerships
+793,development assistance commitments
+794,market access facilitation
+795,fundamental principles of official statistics
+796,multiple stakeholders
+797,foreign direct investments
+798,global stability
+799,macroeconomic stability
+800,international population and housing census
+801,international collaboration
+802,poor vulnerable
+803,wasting food
+804,seed plant bank
+805,agriculture sustainable
+806,refugees health services
+807,disability inclusion
+808,disability family support
+809,disability politics of location
+810,access to clean water sanitation
+811,inclusion education
+812,disability education
+813,gender discrimination
+814,violence girls
+815,violence women
+816,exploitation girls
+817,empowerment women
+818,exploitation women
+819,governance gender
+820,sanitation hygiene
+821,sustainable power
+822,creativity innovation
+823,entrepreneurship innovation
+824,research innovation
+825,value chains markets
+826,migration mobility
+827,diversity inclusion
+828,sex inequality
+829,race discriminate
+830,arts heritage
+831,resilience adaptive capacity
+832,climate politics
+833,climate infectious disease
+834,overexploitation fish
+835,fish stocks fisheries management
+836,international population housing census

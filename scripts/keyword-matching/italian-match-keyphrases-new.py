@@ -13,7 +13,7 @@ matching_kw_fieldnames = ['site_id', 'page_id', 'keyword_id', 'similar_kw_id', '
 TEXTS_PRE_PROCESSED_XLSX = '../pre-processing/files/webPagesPreProcessedTexts.xls'
 MATCHING_PHRASES_XLSX = 'files/matching_Phrases.xls'
 SITE_COUNT = 1
-PAGE_COUNT = 100000
+PAGE_COUNT = 1000000
 START_PAGE_INDEX = 0
 
 council_map = {}

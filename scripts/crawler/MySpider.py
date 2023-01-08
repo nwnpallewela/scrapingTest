@@ -8,11 +8,11 @@ from scripts.crawler.CrawlerProperties import CrawlerProperties
 
 
 class MySpider(CrawlSpider, ABC):
-    name = 'City Council of misterbianco'
-    folder = 'misterbianco'
-    allowed_domains = ['www.comune.misterbianco.ct.it']
+    name = 'City Council of pesaro'
+    folder = 'pesaro'
+    allowed_domains = ['www.comune.pesaro.pu.it']
     # allowed_domains = ['www.act.gov.au', 'www.accesscanberra.act.gov.au','yoursayconversations.act.gov.au']
-    start_urls = ['https://www.comune.misterbianco.ct.it/']
+    start_urls = ['http://www.comune.pesaro.pu.it/']
     # start_urls = ['https://www.act.gov.au', 'https://www.accesscanberra.act.gov.au/s/',
     #               'https://www.act.gov.au/our-canberra/home']
     count = 0
@@ -21,13 +21,14 @@ class MySpider(CrawlSpider, ABC):
         # and follow links from them (since no callback means follow=True by default).
         # Rule(LinkExtractor(allow=('category\.php',), deny=('/modulistica/index.php?action=',))),
         # Extract links matching 'item.php' and parse them with the spider's method parse_item
-        Rule(LinkExtractor(deny=()),
+        Rule(LinkExtractor(deny=('/en-us/')),
              callback='parse_item', follow=True),
     )
     custom_settings = {
-                       "USER_AGENT": 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) '
-                                     'AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
-                       }
+        "DEPTH_LIMIT": 3,
+        "USER_AGENT": 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) '
+                      'AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
+    }
 
     def __init__(self, *a, **kw):
         super().__init__(*a, **kw)
@@ -41,7 +42,7 @@ class MySpider(CrawlSpider, ABC):
         self.logger.info('Hi, this is an item page! %s', response.url)
         self.count = self.count + 1
         print(str(self.count) + ' - ' + response.url)
-        self.write_row_to_csv({'council': 106, 'page': self.count, 'url': response.url})
+        self.write_row_to_csv({'council': 102, 'page': self.count, 'url': response.url})
 
     def write_row_to_csv(self, row):
         # with open('files/aus/melbourne/site_urls.csv', 'a', newline='\n') as site_url_file:
