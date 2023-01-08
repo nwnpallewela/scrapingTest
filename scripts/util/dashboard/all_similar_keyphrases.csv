@@ -1,0 +1,803 @@
+index,id,keyword_id,similar_keyword,italian_keyword
+0,0,0,sdg14,sdg14
+1,1,1,sdg10,sdg10
+2,2,2,sdg1,sdg1
+3,3,3,sdg9,sdg9
+4,4,4,sustainable development,sviluppo sostenibile
+5,5,5,sdg8,sdg8
+6,6,6,sdg3,sdg3
+7,7,7,sdg16,sdg16
+8,8,8,sdg6,sdg6
+9,9,9,sdg17,sdg17
+10,10,10,sdg12,sdg12
+11,11,11,sdg11,sdg11
+12,12,12,sdg15,sdg15
+13,13,13,sdg13,sdg13
+14,14,14,sdg,sdg
+15,15,15,sdg2,sdg2
+16,16,16,sustainable development goals,obiettivi di sviluppo sostenibile
+17,17,17,sdg7,sdg7
+18,18,18,sdg4,sdg4
+19,19,19,sdg5,sdg5
+20,20,20,social protection systems,sistemi di protezione sociale
+21,21,21,financial inclusion,l'inclusione finanziaria
+22,22,22,essential services,servizi essenziali
+23,23,23,poverty line,soglia di povertà
+24,24,24,basic services,servizi di base
+25,25,25,extreme poverty,povertà estrema
+26,26,26,disaster risk,rischio di catastrofi
+27,27,27,poverty,povertà
+28,28,28,income equality,parità di reddito
+29,29,29,social protection,protezione sociale
+30,30,30,non-discrimination,non discriminazione
+31,31,31,poor and vulnerable,poveri e vulnerabili
+32,32,32,poverty eradication,sradicamento della povertà
+33,33,33,end poverty,porre fine alla povertà
+34,34,34,wealth distribution,distribuzione della ricchezza
+35,35,35,asylum seeker,richiedente asilo
+36,36,36,microfinance,microfinanza
+37,37,37,economic resources,risorse economiche
+38,38,38,quality of life,qualità della vita
+39,39,39,improved nutrition,nutrizione migliorata
+40,40,40,starvation,fame
+41,41,41,food in-security,insicurezza alimentare
+42,42,42,livestock gene banks,banche genetiche del bestiame
+43,43,43,wasting and food,spreco e cibo
+44,44,44,crop diversity,diversità delle colture
+45,45,45,sufficient food,cibo sufficiente
+46,46,46,undernourished,denutrito
+47,47,47,food waste,spreco di cibo
+48,48,48,hungry people,persone affamate
+49,49,49,seed and plant bank,banca di semi e piante
+50,50,50,stunted growth,crescita stentata
+51,51,51,food poverty,povertà alimentare
+52,52,52,nutritional needs,bisogni nutrizionali
+53,53,53,genetic diversity of seeds,diversità genetica dei semi
+54,54,54,sustainable food production,produzione alimentare sostenibile
+55,55,55,sustainable food system,sistema alimentare sostenibile
+56,56,56,hunger,fame
+57,57,57,agriculture and sustainable,agricoltura e sostenibilità
+58,58,58,agricultural orientation index,indice di orientamento agricolo
+59,59,59,small-scale food producers,piccoli produttori di cibo
+60,60,60,food insecure,cibo insicuro
+61,61,61,soil pollution,inquinamento del suolo
+62,62,62,malnourish,malnutrito
+63,63,63,nutritious,nutriente
+64,64,64,sustainable agriculture,agricoltura sostenibile
+65,65,65,world’s hungry,il mondo ha fame
+66,66,66,agricultural imports,importazioni agricole
+67,67,67,resilient agriculture,agricoltura resiliente
+68,68,68,food price anomalies,anomalie dei prezzi alimentari
+69,69,69,agricultural exports,esportazioni agricole
+70,70,70,malnourished,malnutrito
+71,71,71,food reserves,riserve alimentari
+72,72,72,food gap,divario alimentare
+73,73,73,nutrition,nutrizione
+74,74,74,food insecurity,insicurezza alimentare
+75,75,75,trade restrictions,restrizioni commerciali
+76,76,76,food security,sicurezza del cibo
+77,77,77,agricultural productivity,produttività agricola
+78,78,78,genetic diversity,diversità genetica
+79,79,79,stunting,acrobazia
+80,80,80,malnutrition,malnutrizione
+81,81,81,trade diversity,diversità commerciale
+82,82,82,food production,produzione di cibo
+83,83,83,agricultural subsidy,sussidio agricolo
+84,84,84,rural development,sviluppo rurale
+85,85,85,antiretroviral,anti retrovirale
+86,86,86,substance abuse,abuso di sostanze
+87,87,87,vaccines in developing countries,vaccini nei paesi in via di sviluppo
+88,88,88,early childhood development,sviluppo della prima infanzia
+89,89,89,mortality rate,tasso di mortalità
+90,90,90,epidemic eradication,eradicazione dell'epidemia
+91,91,91,drug abuse,abuso di droghe
+92,92,92,antenatal care,cura prenatale
+93,93,93,sexual and reproductive health-care,assistenza sanitaria sessuale e riproduttiva
+94,94,94,alcoholism,alcolismo
+95,95,95,universal health,salute universale
+96,96,96,family planning,pianificazione famigliare
+97,97,97,health risk,rischio di salute
+98,98,98,refugees and health services,rifugiati e servizi sanitari
+99,99,99,sexual health,salute sessuale
+100,100,100,maternal mortality,mortalità materna
+101,101,101,sport participation rate,tasso di partecipazione sportiva
+102,102,102,tobacco control,controllo del tabacco
+103,103,103,child deaths,morti infantili
+104,104,104,road traffic accidents,incidenti stradali
+105,105,105,vaccines,vaccini
+106,106,106,soil contamination,contaminazione del suolo
+107,107,107,communicable disease,malattie trasmissibili
+108,108,108,health worker density,densità di operatori sanitari
+109,109,109,treatment of substance abuse,trattamento dell'abuso di sostanze
+110,110,110,world health organisation,organizzazione mondiale della sanità
+111,111,111,immunisation,immunizzazione
+112,112,112,material mortality,mortalità materiale
+113,113,113,universal healthcare,assistenza sanitaria universale
+114,114,114,preventable deaths,morti prevenibili
+115,115,115,alcohol abuse,abuso di alcool
+116,116,116,public health,salute pubblica
+117,117,117,disability and inclusion,disabilità e inclusione
+118,118,118,disability and family support,disabilità e sostegno alla famiglia
+119,119,119,health in resource-constrained settings,salute in contesti con risorse limitate
+120,120,120,essential health services,servizi sanitari essenziali
+121,121,121,international health policy,politica sanitaria internazionale
+122,122,122,narcotic drug abuse,abuso di stupefacenti
+123,123,123,water-borne disease,malattie trasmesse dall'acqua
+124,124,124,infectious disease,malattia infettiva
+125,125,125,air contamination,contaminazione dell'aria
+126,126,126,reproductive health,salute riproduttiva
+127,127,127,affordable medicines,medicinali a prezzi accessibili
+128,128,128,bodily autonomy,autonomia corporea
+129,129,129,premature birth,nascita prematura
+130,130,130,disability and politics of location,disabilità e politica del luogo
+131,131,131,neonatal mortality,mortalità neonatale
+132,132,132,vaccination,vaccinazione
+133,133,133,reducing mortality,riducendo la mortalità
+134,134,134,antiretroviral therapy,terapia antiretrovirale
+135,135,135,improving mortality,migliorando la mortalità
+136,136,136,premature mortality,mortalità prematura
+137,137,137,universal health coverage,copertura sanitaria universale
+138,138,138,mental health,salute mentale
+139,139,139,death rate,tasso di mortalità
+140,140,140,increasing life expectancy,aumento dell'aspettativa di vita
+141,141,141,contraceptive use,uso contraccettivo
+142,142,142,water,acqua
+143,143,143,infant mortality,mortalità infantile
+144,144,144,healthy lives,vita sana
+145,145,145,international health regulations,le norme sanitarie internazionali
+146,146,146,access to clean water and sanitation,accesso ad acqua pulita e servizi igienici
+147,147,147,cultural diversity,diversità culturale
+148,148,148,lifelong learning,l'apprendimento permanente
+149,149,149,global education,educazione globale
+150,150,150,education in developing countries,l'istruzione nei paesi in via di sviluppo
+151,151,151,basic literacy skills,competenze di alfabetizzazione di base
+152,152,152,high school completion,completamento delle scuole superiori
+153,153,153,scholarship,borsa di studio
+154,154,154,vocational training,allenamento vocale
+155,155,155,basic literacy,alfabetizzazione di base
+156,156,156,secondary education,educazione secondaria
+157,157,157,tafe,tafè
+158,158,158,universal education,educazione universale
+159,159,159,literacy skills,abilità letterarie
+160,160,160,quality training,formazione di qualità
+161,161,161,post primary education,dopo l'istruzione primaria
+162,162,162,scholarships,borse di studio
+163,163,163,equitable education,educazione equa
+164,164,164,school completion,completamento scolastico
+165,165,165,preprimary education,educazione preprimaria
+166,166,166,qualified teachers,insegnanti qualificati
+167,167,167,early childhood education,educazione della prima infanzia
+168,168,168,gender disparities in education,disparità di genere nell'istruzione
+169,169,169,learning opportunities,opportunità di apprendimento
+170,170,170,vocational education,formazione professionale
+171,171,171,quality education,educazione di qualità
+172,172,172,education for sustainability,educazione alla sostenibilità
+173,173,173,equal access,parità di accesso
+174,174,174,inclusion and education,inclusione ed educazione
+175,175,175,neurodiverse,neurodiverso
+176,176,176,teacher training,formazione degli insegnanti
+177,177,177,primary education,istruzione elementare
+178,178,178,disability and education,disabilità e istruzione
+179,179,179,education facilities,strutture educative
+180,180,180,equal education,uguale istruzione
+181,181,181,refugees and learning,rifugiati e apprendimento
+182,182,182,primary school completion,completamento della scuola primaria
+183,183,183,vocational skills,capacità professionali
+184,184,184,school enrolment,iscrizione scolastica
+185,185,185,basic education,educazione di base
+186,186,186,access to education,accesso all'istruzione
+187,187,187,violence against women,violenza contro le donne
+188,188,188,gender and discrimination,genere e discriminazione
+189,189,189,gender violence,violenza di genere
+190,190,190,gender equality,parità dei sessi
+191,191,191,women leader,leader femminile
+192,192,192,empowering women,responsabilizzare le donne
+193,193,193,domestic work,lavori domestici
+194,194,194,violence and girls,violenza e ragazze
+195,195,195,violence and women,violenza e donne
+196,196,196,gender equality/parity,uguaglianza/parità di genere
+197,197,197,humanitarian,umanitario
+198,198,198,exploitation and girls,sfruttamento e ragazze
+199,199,199,sexual exploitation,sfruttamento sessuale
+200,200,200,empower girls,autorizzare le ragazze
+201,201,201,contraception,contraccezione
+202,202,202,empowerment and women,empowerment e donne
+203,203,203,women's empowerment,emancipazione femminile
+204,204,204,lgbtqi,lgbtqi
+205,205,205,reproductive rights,diritti di riproduzione
+206,206,206,women's rights,diritti delle donne
+207,207,207,empowerment,potenziamento
+208,208,208,women empowerment,emancipazione femminile
+209,209,209,forced marriage,matrimonio forzato
+210,210,210,human trafficking,tratta di esseri umani
+211,211,211,empowering girls,responsabilizzare le ragazze
+212,212,212,sexual  health,salute sessuale
+213,213,213,gender inequality,disparità di genere
+214,214,214,marginalised,emarginato
+215,215,215,empower women,potenziare le donne
+216,216,216,empower and women,potere e donne
+217,217,217,exploitation and women,sfruttamento e donne
+218,218,218,female genital mutilation,mutilazione genitale femminile
+219,219,219,feminism,femminismo
+220,220,220,governance and gender,governo e genere
+221,221,221,empowerment of women,potenziamento delle donne
+222,222,222,child marriage,matrimonio infantile
+223,223,223,gender discrimination,discriminazione di genere
+224,224,224,equal opportunities,pari opportunità
+225,225,225,equal opportunity,pari opportunità
+226,226,226,women in work,donne al lavoro
+227,227,227,contraceptive,contraccettivo
+228,228,228,unpaid care,cure non retribuite
+229,229,229,sexual violence,violenza sessuale
+230,230,230,gender parity,parità di genere
+231,231,231,sexual and reproductive health,salute sessuale e riproduttiva
+232,232,232,workplace equality,uguaglianza sul posto di lavoro
+233,233,233,partner violence,violenza del partner
+234,234,234,social inclusion,integrazione sociale
+235,235,235,violence against girls,violenza contro le ragazze
+236,236,236,human rights,diritti umani
+237,237,237,drinking water,bevendo acqua
+238,238,238,clean water,acqua pulita
+239,239,239,water scarcity,scarsità d'acqua
+240,240,240,water ecosystems,ecosistemi acquatici
+241,241,241,water resources management,gestione delle risorse idriche
+242,242,242,drought,siccità
+243,243,243,inadequate water,acqua inadeguata
+244,244,244,wastewater treatment,trattamento delle acque reflue
+245,245,245,irrigation,irrigazione
+246,246,246,waste water management,gestione delle acque reflue
+247,247,247,ecosystem protection,protezione dell'ecosistema
+248,248,248,sanitation management,gestione igienico-sanitaria
+249,249,249,sustainable water management,gestione sostenibile dell'acqua
+250,250,250,water disasters,disastri idrici
+251,251,251,water-related ecosystems,ecosistemi legati all'acqua
+252,252,252,diarrhoeal diseases,malattie diarroiche
+253,253,253,accessible water,acqua accessibile
+254,254,254,inadequate water supply,approvvigionamento idrico inadeguato
+255,255,255,sanitation,servizi igienico-sanitari
+256,256,256,water harvesting,raccolta dell'acqua
+257,257,257,ecosystem restoration,ripristino dell'ecosistema
+258,258,258,water resources,risorse idriche
+259,259,259,water use,uso dell'acqua
+260,260,260,water-use efficiency,efficienza nell'uso dell'acqua
+261,261,261,sustainable withdrawals,ritiri sostenibili
+262,262,262,recycled water,acqua riciclata
+263,263,263,water management,gestione delle risorse idriche
+264,264,264,river basins,bacini fluviali
+265,265,265,contaminated water,acqua contaminata
+266,266,266,safe drinking water,acqua potabile sicura
+267,267,267,water quality,qualità dell'acqua
+268,268,268,equitable sanitation,igiene equa
+269,269,269,improving water,migliorare l'acqua
+270,270,270,water access,accesso all'acqua
+271,271,271,water efficiency,efficienza idrica
+272,272,272,water ecosystem,ecosistema acquatico
+273,273,273,water supply,fornitura d'acqua
+274,274,274,water stress,stress idrico
+275,275,275,affordable drinking water,acqua potabile a prezzi accessibili
+276,276,276,sanitation and hygiene,igiene e igiene
+277,277,277,desalination,dissalazione
+278,278,278,untreated wastewater,acque reflue non trattate
+279,279,279,wastewater,acque reflue
+280,280,280,electricity infrastructure,infrastruttura elettrica
+281,281,281,renewable power,energia rinnovabile
+282,282,282,green economy,economia verde
+283,283,283,energy research,ricerca energetica
+284,284,284,hydropower,energia idroelettrica
+285,285,285,climate goal,obiettivo climatico
+286,286,286,clean fuels,combustibili puliti
+287,287,287,energy efficiency,efficienza energetica
+288,288,288,affordable energy,energia conveniente
+289,289,289,energy technology,tecnologia energetica
+290,290,290,modern electricity,elettricità moderna
+291,291,291,sustainable and power,sostenibile e di potere
+292,292,292,electricity access,accesso elettrico
+293,293,293,clean fuel,carburante pulito
+294,294,294,renewable energy production,produzione di energia rinnovabile
+295,295,295,hydroelectric,idroelettrico
+296,296,296,renewable,rinnovabile
+297,297,297,reliable energy,energia affidabile
+298,298,298,sustainable energy services,servizi energetici sostenibili
+299,299,299,renewable energy,energia rinnovabile
+300,300,300,wind turbine,turbina eolica
+301,301,301,sustainable and energy,sostenibile ed energetico
+302,302,302,solar,solare
+303,303,303,fossil fuel,combustibile fossile
+304,304,304,wind energy,energia eolica
+305,305,305,clean energy technology,tecnologia per l'energia pulita
+306,306,306,modern energy,energia moderna
+307,307,307,sustainable power,potere sostenibile
+308,308,308,solar power,energia solare
+309,309,309,universal energy,energia universale
+310,310,310,energy price,prezzo dell'energia
+311,311,311,renewable source,fonte rinnovabile
+312,312,312,solar panels,pannelli solari
+313,313,313,alternative energy,energia alternativa
+314,314,314,sustainable energy,energia sostenibile
+315,315,315,energy infrastructure,infrastruttura energetica
+316,316,316,wave power,potenza dell'onda
+317,317,317,solar energy,energia solare
+318,318,318,greenhouse gas emissions,emissioni di gas serra
+319,319,319,energy consumption,consumo di energia
+320,320,320,cleaner fossil fuel technology,tecnologia dei combustibili fossili più pulita
+321,321,321,greenhouse gas,gas serra
+322,322,322,natural gas,gas naturale
+323,323,323,lithium battery,batteria al litio
+324,324,324,wind power,energia eolica
+325,325,325,clean energy,energia pulita
+326,326,326,clean fuel technology,tecnologia del carburante pulito
+327,327,327,energy mix,mix energetico
+328,328,328,child labour,lavoro minorile
+329,329,329,gross domestic product growth,crescita del prodotto interno lordo
+330,330,330,decouple economic growth,disaccoppia la crescita economica
+331,331,331,migrant workers,lavoratori migranti
+332,332,332,youth unemployment,disoccupazione giovanile
+333,333,333,work opportunities,opportunità di lavoro
+334,334,334,access to finance,accesso ai finanziamenti
+335,335,335,creativity and innovation,creatività e innovazione
+336,336,336,well-paid jobs,lavori ben pagati
+337,337,337,productive employment,occupazione produttiva
+338,338,338,equal pay,parità di retribuzione
+339,339,339,precarious work,lavoro precario
+340,340,340,modern slavery,schiavitù moderna
+341,341,341,public policy,ordine pubblico
+342,342,342,decent work for all,un lavoro dignitoso per tutti
+343,343,343,decent work,lavoro decente
+344,344,344,sustainable economic growth,crescita economica sostenibile
+345,345,345,development oriented policy,politica orientata allo sviluppo
+346,346,346,unemployment,disoccupazione
+347,347,347,youth employment,occupazione giovanile
+348,348,348,quality jobs,lavori di qualità
+349,349,349,informal employment,lavoro informale
+350,350,350,sustainable tourism,turismo sostenibile
+351,351,351,economic growth,crescita economica
+352,352,352,secure work,lavoro sicuro
+353,353,353,gross domestic product,prodotto interno lordo
+354,354,354,labor rights,diritti del lavoro
+355,355,355,slavery,schiavitù
+356,356,356,casual staff,personale occasionale
+357,357,357,sustainable consumption,consumo sostenibile
+358,358,358,women migrants,donne migranti
+359,359,359,migrant labour,lavoro migrante
+360,360,360,stable jobs,lavori stabili
+361,361,361,stable employment,lavoro stabile
+362,362,362,labour rights,diritti del lavoro
+363,363,363,resource efficiency,l'efficienza delle risorse
+364,364,364,gdp growth,crescita del pil
+365,365,365,labour market,mercato del lavoro
+366,366,366,sustainable production,produzione sostenibile
+367,367,367,development aid,aiuto per lo sviluppo
+368,368,368,entrepreneurship,imprenditoria
+369,369,369,safe work,lavoro sicuro
+370,370,370,micro finance,microfinanza
+371,371,371,job creation,creazione di posti di lavoro
+372,372,372,economic productivity,produttività economica
+373,373,373,entrepreneurship and innovation,imprenditorialità e innovazione
+374,374,374,global trade,commercio globale
+375,375,375,child soldiers,bambini soldato
+376,376,376,social policies,politiche sociali
+377,377,377,forced labour,lavoro forzato
+378,378,378,world trade,commercio mondiale
+379,379,379,financial services,servizi finanziari
+380,380,380,inclusive economic growth,crescita economica inclusiva
+381,381,381,global resource efficiency,efficienza globale delle risorse
+382,382,382,aid for trade,aiuti al commercio
+383,383,383,research capacity,capacità di ricerca
+384,384,384,sustainable industrial development,sviluppo industriale sostenibile
+385,385,385,sustainable infrastructure,infrastruttura sostenibile
+386,386,386,4g,4g
+387,387,387,internet access,accesso ad internet
+388,388,388,regional infrastructure,infrastruttura regionale
+389,389,389,industrial diversification,diversificazione industriale
+390,390,390,affordable credit,credito accessibile
+391,391,391,enterprises,imprese
+392,392,392,access to the internet,accesso a internet
+393,393,393,technological capabilities,capacità tecnologiche
+394,394,394,value chains,catene del valore
+395,395,395,data banks,banche dati
+396,396,396,environmentally sound technologies,tecnologie rispettose dell'ambiente
+397,397,397,phone service,servizio telefonico
+398,398,398,information and communication technology,tecnologia dell'informazione e della comunicazione
+399,399,399,transborder infrastructure,infrastrutture transfrontaliere
+400,400,400,electrical power,energia elettrica
+401,401,401,innovation,innovazione
+402,402,402,resource use efficiency,efficienza nell'uso delle risorse
+403,403,403,foster innovation,promuovere l'innovazione
+404,404,404,resilient infrastructure,infrastruttura resiliente
+405,405,405,network infrastructure,infrastruttura di rete
+406,406,406,research and innovation,ricerca e innovazione
+407,407,407,technological capability,capacità tecnologica
+408,408,408,research capability,capacità di ricerca
+409,409,409,economic development,sviluppo economico
+410,410,410,manufacturing employment,lavoro manifatturiero
+411,411,411,mobile network,rete mobile
+412,412,412,industrialisation,industrializzazione
+413,413,413,ict infrastructure,infrastrutture ict
+414,414,414,mobile networks in developing countries,reti mobili nei paesi in via di sviluppo
+415,415,415,value chains and markets,catene del valore e mercati
+416,416,416,clean technologies,tecnologie pulite
+417,417,417,5g,5g
+418,418,418,high tech industries,industrie ad alta tecnologia
+419,419,419,global manufacturing production,produzione manifatturiera globale
+420,420,420,mobile networks,reti mobili
+421,421,421,communications technology,tecnologia delle comunicazioni
+422,422,422,sustainable industrialisation,industrializzazione sostenibile
+423,423,423,internet infrastructure,infrastruttura internet
+424,424,424,social capital,capitale sociale
+425,425,425,vulnerable nations,nazioni vulnerabili
+426,426,426,inequality,disuguaglianza
+427,427,427,discrimination,discriminazione
+428,428,428,affirmative action,azione affermativa
+429,429,429,migrant,migrante
+430,430,430,disabilities,disabilità
+431,431,431,foreign investment,investimento straniero
+432,432,432,migration and mobility,migrazione e mobilità
+433,433,433,close the gap,colmare il divario
+434,434,434,social class,classe sociale
+435,435,435,income inequality,disparità di reddito
+436,436,436,disability,disabilità
+437,437,437,income growth,crescita del reddito
+438,438,438,development assistance,assistenza allo sviluppo
+439,439,439,racism,razzismo
+440,440,440,reduce inequalities,ridurre le disuguaglianze
+441,441,441,affordable housing,alloggi a prezzi accessibili
+442,442,442,ageism,ageismo
+443,443,443,inequalities,disuguaglianze
+444,444,444,diversity and inclusion,diversità e inclusione
+445,445,445,classism,classismo
+446,446,446,indigenous health,salute indigena
+447,447,447,migration policy,politica migratoria
+448,448,448,homophobia,omofobia
+449,449,449,sexism,sessismo
+450,450,450,migration,migrazione
+451,451,451,discrimination elimination,eliminazione della discriminazione
+452,452,452,discriminatory,discriminatorio
+453,453,453,population growth,crescita demografica
+454,454,454,socio-economic,socio-economico
+455,455,455,sex and inequality,sesso e disuguaglianza
+456,456,456,economic inclusion,inclusione economica
+457,457,457,race and discriminate,razza e discriminazione
+458,458,458,socio-economic status,stato socioeconomico
+459,459,459,foreign aid,aiuti esteri
+460,460,460,income disparity,disparità di reddito
+461,461,461,global financial markets,mercati finanziari globali
+462,462,462,equality,uguaglianza
+463,463,463,migrant remittance,rimessa migranti
+464,464,464,indigenous equality,uguaglianza indigena
+465,465,465,climate change,cambiamento climatico
+466,466,466,sustainable urbanisation,urbanizzazione sostenibile
+467,467,467,land consumption,consumo di suolo
+468,468,468,sustainable urbanisation,urbanizzazione sostenibile
+469,469,469,over crowding,oltre l'affollamento
+470,470,470,city planning,pianificazione della citta
+471,471,471,safe cities,città sicure
+472,472,472,sustainable building,edilizia sostenibile
+473,473,473,town planning,urbanistica
+474,474,474,sustainable buildings,edifici sostenibili
+475,475,475,sustainable transport,trasporto sostenibile
+476,476,476,physical or sexual harassment,molestie fisiche o sessuali
+477,477,477,arts and heritage,arti e patrimonio
+478,478,478,shanty,baracca
+479,479,479,cultural heritage,eredità culturale
+480,480,480,informal settlements,accordi informali
+481,481,481,smart cities,città intelligenti
+482,482,482,resilient buildings,edifici resilienti
+483,483,483,air pollution,inquinamento dell'aria
+484,484,484,overcrowding,sovraffollamento
+485,485,485,urban planning,pianificazione urbana
+486,486,486,urbanisation,urbanizzazione
+487,487,487,sustainable communities,comunità sostenibili
+488,488,488,safe housing,alloggio sicuro
+489,489,489,rural strategy,strategia rurale
+490,490,490,sustainable and communities,sostenibile e comunità
+491,491,491,sustainable city,città sostenibile
+492,492,492,disaster strategy,strategia del disastro
+493,493,493,public spaces,spazi pubblici
+494,494,494,resource needs,esigenze di risorse
+495,495,495,natural heritage,eredità naturale
+496,496,496,inadequate housing,alloggi inadeguati
+497,497,497,fine particulate matter,particolato fine
+498,498,498,natural disasters,disastri naturali
+499,499,499,flood damage,danni da inondazione
+500,500,500,urban sustainability,sostenibilità urbana
+501,501,501,development planning,pianificazione dello sviluppo
+502,502,502,road safety,sicurezza stradale
+503,503,503,disaster management,gestione delle catastrofi
+504,504,504,natural disaster,disastro naturale
+505,505,505,urban policies,politiche urbane
+506,506,506,waste management,gestione dei rifiuti
+507,507,507,disaster risk reduction,riduzione del rischio di catastrofi
+508,508,508,slums,baraccopoli
+509,509,509,public transport,trasporto pubblico
+510,510,510,local materials,materiale locale
+511,511,511,risk reduction strategy,strategia di riduzione del rischio
+512,512,512,sustainable and city,sostenibile e città
+513,513,513,human settlements,insediamenti umani
+514,514,514,green spaces,spazi verdi
+515,515,515,municipal waste management,gestione dei rifiuti urbani
+516,516,516,urban development,sviluppo urbano
+517,517,517,heritage,eredità
+518,518,518,air quality,qualità dell'aria
+519,519,519,sustainable cities,città sostenibili
+520,520,520,chemical pollution,inquinamento chimico
+521,521,521,agricultural waste,rifiuti agricoli
+522,522,522,reduce waste generation,ridurre la produzione di rifiuti
+523,523,523,deep decarbonization,profonda decarbonizzazione
+524,524,524,green procurement,appalti verdi
+525,525,525,green purchasing,acquisti verdi
+526,526,526,sustainability strategy,strategia di sostenibilità
+527,527,527,responsible production chains,filiere di produzione responsabili
+528,528,528,efficient use of resources,uso efficiente delle risorse
+529,529,529,responsible management,gestione responsabile
+530,530,530,commercial enterprises,imprese commerciali
+531,531,531,food supply,approvvigionamento alimentare
+532,532,532,monitoring sustainable development,monitoraggio dello sviluppo sostenibile
+533,533,533,future proof,prova futura
+534,534,534,reduce waste,riduci gli sprechi
+535,535,535,fast fashion,moda veloce
+536,536,536,harvest losses,perdite di raccolto
+537,537,537,responsible consumption,consumo responsabile
+538,538,538,global food waste,spreco alimentare globale
+539,539,539,sustainable resource use,uso sostenibile delle risorse
+540,540,540,sustainable procurement,appalti sostenibili
+541,541,541,construction waste,rifiuti edili
+542,542,542,sustainable practices,pratiche sostenibili
+543,543,543,fossil-fuel subsidies,sussidi ai combustibili fossili
+544,544,544,sustainable supply chain,filiera sostenibile
+545,545,545,sustainability reporting,bilancio di sostenibilità
+546,546,546,natural resources,risorse naturali
+547,547,547,recycle,riciclare
+548,548,548,greenhouse gasses,gas serra
+549,549,549,market distortions,distorsioni del mercato
+550,550,550,wasteful consumption,consumo dispendioso
+551,551,551,food losses,perdite di cibo
+552,552,552,circular economy,economia circolare
+553,553,553,consumerism,consumismo
+554,554,554,natural resource,risorsa naturale
+555,555,555,materialism,materialismo
+556,556,556,fossil fuel subsidies,sussidi ai combustibili fossili
+557,557,557,sustainable purchasing,acquisti sostenibili
+558,558,558,renewable energy-generating capacity,capacità di generazione di energia rinnovabile
+559,559,559,sustainable public procurement,appalti pubblici sostenibili
+560,560,560,sustainable management,gestione sostenibile
+561,561,561,energy use,consumo di energia
+562,562,562,overconsumption,consumo eccessivo
+563,563,563,recycling,raccolta differenziata
+564,564,564,deep decarbonisation,profonda decarbonizzazione
+565,565,565,consumer levels,livelli di consumo
+566,566,566,material goods,beni materiali
+567,567,567,climate adaptation,adattamento climatico
+568,568,568,climate change policy,politica sui cambiamenti climatici
+569,569,569,resilience and adaptive capacity,resilienza e capacità di adattamento
+570,570,570,extreme weather events,eventi meteorologici estremi
+571,571,571,climate mitigation,mitigazione climatica
+572,572,572,carbon emissions,emissioni di carbonio
+573,573,573,methane emissions,emissioni di metano
+574,574,574,average global temperature,temperatura media globale
+575,575,575,climate and politics,clima e politica
+576,576,576,increased temperature,aumento della temperatura
+577,577,577,co2 capture,cattura di co2
+578,578,578,forest fire,incendio forestale
+579,579,579,climate impact,impatto sul clima
+580,580,580,low-carbon economy,economia a basse emissioni di carbonio
+581,581,581,changing weather patterns,cambiando i modelli meteorologici
+582,582,582,global temperature,temperatura globale
+583,583,583,climate change management,gestione del cambiamento climatico
+584,584,584,climate hazards,pericoli climatici
+585,585,585,climate early warning,allerta precoce per il clima
+586,586,586,rising sea,mare in aumento
+587,587,587,extreme weather,tempo estremo
+588,588,588,climate and infectious disease,clima e malattie infettive
+589,589,589,climate resilience,resilienza climatica
+590,590,590,sea level rise,innalzamento del livello del mare
+591,591,591,climate change planning,pianificazione del cambiamento climatico
+592,592,592,global warming,il riscaldamento globale
+593,593,593,greenhouse gas emissions (i added gas emissions),emissioni di gas serra (ho aggiunto emissioni di gas)
+594,594,594,climate action,azione per il clima
+595,595,595,climate and gender,clima e genere
+596,596,596,rising sea level,l'innalzamento del livello del mare
+597,597,597,climate related hazards,pericoli legati al clima
+598,598,598,ocean warming,riscaldamento dell'oceano
+599,599,599,co2 conversion,conversione di co2
+600,600,600,nitrogen oxide emissions,emissioni di ossido di azoto
+601,601,601,cop 26,poliziotto 26
+602,602,602,climate refugees,profughi climatici
+603,603,603,rising temperature,temperatura in aumento
+604,604,604,carbon mitigation,mitigazione del carbonio
+605,605,605,ice loss,perdita di ghiaccio
+606,606,606,global mean temperature,temperatura media globale
+607,607,607,paris agreement,accordo di parigi
+608,608,608,greenhouse gases,gas serra
+609,609,609,coral reef,barriera corallina
+610,610,610,aquaculture,acquacoltura
+611,611,611,overexploitation and fish,sfruttamento eccessivo e pesce
+612,612,612,coastal protection,protezione costiera
+613,613,613,fishery subsidies,sussidi alla pesca
+614,614,614,sustainable fishing,pesca sostenibile
+615,615,615,healthy oceans,oceani sani
+616,616,616,artisanal fishers,pescatori artigianali
+617,617,617,fish stocks,riserve di pesce
+618,618,618,coastal habitats,habitat costieri
+619,619,619,fish stocks and fisheries management,stock ittici e gestione della pesca
+620,620,620,fishing practices,pratiche di pesca
+621,621,621,marine parks,parchi marini
+622,622,622,sustainable ecosystems,ecosistemi sostenibili
+623,623,623,fishing licence,licenza di pesca
+624,624,624,oceanography,oceanografia
+625,625,625,illegal fishing,pesca illegale
+626,626,626,coral bleaching,sbiancamento dei coralli
+627,627,627,marine fisheries,pesca marina
+628,628,628,ocean acidification,acidificazione oceanica
+629,629,629,marine ecosystem,ecosistema marino
+630,630,630,marine pollution,inquinamento marino
+631,631,631,marine ecosystems,ecosistemi marini
+632,632,632,coastal biodiversity,biodiversità costiera
+633,633,633,ocean conservation,conservazione degli oceani
+634,634,634,marine biodiversity,biodiversità marina
+635,635,635,marine life,vita marina
+636,636,636,ocean sustainable use,uso sostenibile dell'oceano
+637,637,637,protect marine,proteggere il mare
+638,638,638,protected areas,aree protette
+639,639,639,ecosystem management,gestione dell'ecosistema
+640,640,640,productive oceans,oceani produttivi
+641,641,641,unregulated fishing,pesca non regolamentata
+642,642,642,marine debris,detriti marini
+643,643,643,ocean temperature,temperatura dell'oceano
+644,644,644,marine technology,tecnologia marina
+645,645,645,conserve oceans,preservare gli oceani
+646,646,646,healthy sea,mare sano
+647,647,647,ocean health,salute dell'oceano
+648,648,648,marine resources,risorse marine
+649,649,649,overfishing,pesca eccessiva
+650,650,650,coastal parks,parchi costieri
+651,651,651,coastal ecosystem,ecosistema costiero
+652,652,652,coastal resources,risorse costiere
+653,653,653,coastal ecosystems,ecosistemi costieri
+654,654,654,conservation,conservazione
+655,655,655,invasive alien species,specie aliena invasiva
+656,656,656,rewilding,ribelle
+657,657,657,soil degradation,degrado del suolo
+658,658,658,sustainable forestry,silvicoltura sostenibile
+659,659,659,deforestation,deforestazione
+660,660,660,ecosystem,ecosistema
+661,661,661,sub-species,sottospecie
+662,662,662,habitat loss,perdita di habitat
+663,663,663,natural habitats,habitat naturali
+664,664,664,mountain ecosystems,ecosistemi di montagna
+665,665,665,manage forests,gestire le foreste
+666,666,666,afforestation,rimboschimento
+667,667,667,reforestation,rimboschimento
+668,668,668,strategic plan for biodiversity,piano strategico per la biodiversità
+669,669,669,wetlands,zone umide
+670,670,670,forest management,gestione forestale
+671,671,671,biodiversity,biodiversità
+672,672,672,illicit trafficking,traffico illecito
+673,673,673,land conservation,conservazione del territorio
+674,674,674,invasive species,specie invasive
+675,675,675,genetic resources,risorse genetiche
+676,676,676,terrestrial ecosystems,ecosistemi terrestri
+677,677,677,extinction,estinzione
+678,678,678,protected flora,flora protetta
+679,679,679,land degradation,degrado del suolo
+680,680,680,biodiversity conservation,conservazione della biodiversità
+681,681,681,permaculture,permacultura
+682,682,682,protected species,specie protetta
+683,683,683,alien species,specie aliena
+684,684,684,managed forests,foreste gestite
+685,685,685,manage forest,gestire la foresta
+686,686,686,land restoration,ripristino del terreno
+687,687,687,sustainable forest,foresta sostenibile
+688,688,688,illegal wildlife products,prodotti illegali della fauna selvatica
+689,689,689,land use and sustainability,uso del suolo e sostenibilità
+690,690,690,desertification,desertificazione
+691,691,691,wildlife,animali selvatici
+692,692,692,biodiversity loss,perdita di biodiversità
+693,693,693,drylands,terre aride
+694,694,694,threatened species,specie minacciata
+695,695,695,arable land,terra arabile
+696,696,696,micro-organisms,microrganismi
+697,697,697,freshwater ecosystems,ecosistemi di acqua dolce
+698,698,698,protected fauna,fauna protetta
+699,699,699,land loss,perdita di terra
+700,700,700,wetland conservation,conservazione delle zone umide
+701,701,701,extinct species,specie estinta
+702,702,702,poaching,bracconaggio
+703,703,703,bribing,corrompere
+704,704,704,corruption,corruzione
+705,705,705,illicit financial flows,flussi finanziari illeciti
+706,706,706,arbitrary detention,detenzione arbitraria
+707,707,707,hate crime,crimine d'odio
+708,708,708,conflict resolution,risoluzione del conflitto
+709,709,709,inclusion,inclusione
+710,710,710,enforced disappearance,scomparsa forzata
+711,711,711,illegal arms,armi illegali
+712,712,712,accountable institution,istituto responsabile
+713,713,713,inclusive society,società inclusiva
+714,714,714,justice for all,giustizia per tutti
+715,715,715,unsentenced detainees,detenuti non condannati
+716,716,716,tax evasion,evasione delle tasse
+717,717,717,stolen assets,beni rubati
+718,718,718,psychological abuse,abuso psicologico
+719,719,719,combat terrorism,combattere il terrorismo
+720,720,720,inclusive societies,società inclusive
+721,721,721,crime,crimine
+722,722,722,violence,violenza
+723,723,723,rule of law,norma di legge
+724,724,724,organised crime,criminalità organizzata
+725,725,725,security threats,minacce alla sicurezza
+726,726,726,bribery,corruzione
+727,727,727,physical abuse,abuso fisico
+728,728,728,victims of violence,vittime di violenza
+729,729,729,accountable institutions,istituzioni responsabili
+730,730,730,inclusive institutions,istituzioni inclusive
+731,731,731,representative decision-making,processo decisionale rappresentativo
+732,732,732,sexual abuse,abuso sessuale
+733,733,733,un-sentenced detainees,detenuti non condannati
+734,734,734,exploitation,sfruttamento
+735,735,735,representative decisionmaking,processo decisionale rappresentativo
+736,736,736,legal identity,identità legale
+737,737,737,peaceful societies,società pacifiche
+738,738,738,violence against women and children,violenza contro donne e bambini
+739,739,739,torture,tortura
+740,740,740,flow of arms,flusso di armi
+741,741,741,transparency,trasparenza
+742,742,742,transparent institution,istituzione trasparente
+743,743,743,justice,giustizia
+744,744,744,organized crime,crimine organizzato
+745,745,745,legal system,sistema legale
+746,746,746,terrorism,terrorismo
+747,747,747,fundamental freedom,libertà fondamentale
+748,748,748,paris principles,principi di parigi
+749,749,749,deaths,deceduti
+750,750,750,weapons,armi
+751,751,751,violence rates,tassi di violenza
+752,752,752,national security,sicurezza nazionale
+753,753,753,weapon seizures,sequestro di armi
+754,754,754,prevent violence,prevenire la violenza
+755,755,755,internally displaced,dislocato internamente
+756,756,756,arms trafficking,traffico di armi
+757,757,757,strong institutions,istituzioni forti
+758,758,758,global governance,governo globale
+759,759,759,unstable societies,società instabili
+760,760,760,weapon,arma
+761,761,761,money laundering,riciclaggio di denaro
+762,762,762,multi-stakeholder partnerships,partnership multi-stakeholder
+763,763,763,build capacity,capacità di costruzione
+764,764,764,world trade organization,organizzazione mondiale del commercio
+765,765,765,science cooperation agreements,accordi di cooperazione scientifica
+766,766,766,communication technologies,tecnologie della comunicazione
+767,767,767,debt sustainability,sostenibilità del debito
+768,768,768,international cooperation,cooperazione internazionale
+769,769,769,fair trade,commercio equo e solidale
+770,770,770,doha development agenda,agenda per lo sviluppo di doha
+771,771,771,technology transfer,trasferimento tecnologico
+772,772,772,global partnership for sustainable development,partenariato globale per lo sviluppo sostenibile
+773,773,773,financial sustainability,sostenibilità finanziaria
+774,774,774,developing countries,paesi in via di sviluppo
+775,775,775,collaboration for sustainability,collaborazione per la sostenibilità
+776,776,776,international support for developing countries,sostegno internazionale ai paesi in via di sviluppo
+777,777,777,capacity building,edificio di capacità
+778,778,778,weighted tariff average,media tariffaria ponderata
+779,779,779,international aid,aiuto internazionale
+780,780,780,international support,sostegno internazionale
+781,781,781,global macroeconomic stability,stabilità macroeconomica globale
+782,782,782,knowledge sharing,condivisione della conoscenza
+783,783,783,partnership for sustainability,partenariato per la sostenibilità
+784,784,784,multi-stakeholder,multistakeholder
+785,785,785,global partnership,partenariato globale
+786,786,786,international population,popolazione internazionale
+787,787,787,public-private partnerships,partenariato pubblico-privato
+788,788,788,technology cooperation agreements,accordi di cooperazione tecnologica
+789,789,789,public-private partnership,partenariato pubblico-privato
+790,790,790,free trade,libero scambio
+791,791,791,assist developing countries,assistere i paesi in via di sviluppo
+792,792,792,civil society partnerships,unioni della società civile
+793,793,793,development assistance commitments,impegni di assistenza allo sviluppo
+794,794,794,market access facilitation,facilitazione dell'accesso al mercato
+795,795,795,fundamental principles of official statistics,principi fondamentali della statistica ufficiale
+796,796,796,multiple stakeholders,più parti interessate
+797,797,797,foreign direct investments,investimenti diretti esteri
+798,798,798,global stability,stabilità globale
+799,799,799,macroeconomic stability,stabilità macroeconomica
+800,800,800,international population and housing census,censimento internazionale della popolazione e delle abitazioni
+801,801,801,international collaboration,collaborazione internazionale

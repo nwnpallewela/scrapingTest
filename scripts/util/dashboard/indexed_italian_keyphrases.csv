@@ -1,0 +1,803 @@
+id,keyword
+0,sdg14
+1,sdg10
+2,sdg1
+3,sdg9
+4,sviluppo sostenibile
+5,sdg8
+6,sdg3
+7,sdg16
+8,sdg6
+9,sdg17
+10,sdg12
+11,sdg11
+12,sdg15
+13,sdg13
+14,sdg
+15,sdg2
+16,obiettivi di sviluppo sostenibile
+17,sdg7
+18,sdg4
+19,sdg5
+20,sistemi di protezione sociale
+21,l'inclusione finanziaria
+22,servizi essenziali
+23,soglia di povertà
+24,servizi di base
+25,povertà estrema
+26,rischio di catastrofi
+27,povertà
+28,parità di reddito
+29,protezione sociale
+30,non discriminazione
+31,poveri e vulnerabili
+32,sradicamento della povertà
+33,porre fine alla povertà
+34,distribuzione della ricchezza
+35,richiedente asilo
+36,microfinanza
+37,risorse economiche
+38,qualità della vita
+39,nutrizione migliorata
+40,fame
+41,insicurezza alimentare
+42,banche genetiche del bestiame
+43,spreco e cibo
+44,diversità delle colture
+45,cibo sufficiente
+46,denutrito
+47,spreco di cibo
+48,persone affamate
+49,banca di semi e piante
+50,crescita stentata
+51,povertà alimentare
+52,bisogni nutrizionali
+53,diversità genetica dei semi
+54,produzione alimentare sostenibile
+55,sistema alimentare sostenibile
+56,fame
+57,agricoltura e sostenibilità
+58,indice di orientamento agricolo
+59,piccoli produttori di cibo
+60,cibo insicuro
+61,inquinamento del suolo
+62,malnutrito
+63,nutriente
+64,agricoltura sostenibile
+65,il mondo ha fame
+66,importazioni agricole
+67,agricoltura resiliente
+68,anomalie dei prezzi alimentari
+69,esportazioni agricole
+70,malnutrito
+71,riserve alimentari
+72,divario alimentare
+73,nutrizione
+74,insicurezza alimentare
+75,restrizioni commerciali
+76,sicurezza del cibo
+77,produttività agricola
+78,diversità genetica
+79,acrobazia
+80,malnutrizione
+81,diversità commerciale
+82,produzione di cibo
+83,sussidio agricolo
+84,sviluppo rurale
+85,anti retrovirale
+86,abuso di sostanze
+87,vaccini nei paesi in via di sviluppo
+88,sviluppo della prima infanzia
+89,tasso di mortalità
+90,eradicazione dell'epidemia
+91,abuso di droghe
+92,cura prenatale
+93,assistenza sanitaria sessuale e riproduttiva
+94,alcolismo
+95,salute universale
+96,pianificazione famigliare
+97,rischio di salute
+98,rifugiati e servizi sanitari
+99,salute sessuale
+100,mortalità materna
+101,tasso di partecipazione sportiva
+102,controllo del tabacco
+103,morti infantili
+104,incidenti stradali
+105,vaccini
+106,contaminazione del suolo
+107,malattie trasmissibili
+108,densità di operatori sanitari
+109,trattamento dell'abuso di sostanze
+110,organizzazione mondiale della sanità
+111,immunizzazione
+112,mortalità materiale
+113,assistenza sanitaria universale
+114,morti prevenibili
+115,abuso di alcool
+116,salute pubblica
+117,disabilità e inclusione
+118,disabilità e sostegno alla famiglia
+119,salute in contesti con risorse limitate
+120,servizi sanitari essenziali
+121,politica sanitaria internazionale
+122,abuso di stupefacenti
+123,malattie trasmesse dall'acqua
+124,malattia infettiva
+125,contaminazione dell'aria
+126,salute riproduttiva
+127,medicinali a prezzi accessibili
+128,autonomia corporea
+129,nascita prematura
+130,disabilità e politica del luogo
+131,mortalità neonatale
+132,vaccinazione
+133,riducendo la mortalità
+134,terapia antiretrovirale
+135,migliorando la mortalità
+136,mortalità prematura
+137,copertura sanitaria universale
+138,salute mentale
+139,tasso di mortalità
+140,aumento dell'aspettativa di vita
+141,uso contraccettivo
+142,acqua
+143,mortalità infantile
+144,vita sana
+145,le norme sanitarie internazionali
+146,accesso ad acqua pulita e servizi igienici
+147,diversità culturale
+148,l'apprendimento permanente
+149,educazione globale
+150,l'istruzione nei paesi in via di sviluppo
+151,competenze di alfabetizzazione di base
+152,completamento delle scuole superiori
+153,borsa di studio
+154,allenamento vocale
+155,alfabetizzazione di base
+156,educazione secondaria
+157,tafè
+158,educazione universale
+159,abilità letterarie
+160,formazione di qualità
+161,dopo l'istruzione primaria
+162,borse di studio
+163,educazione equa
+164,completamento scolastico
+165,educazione preprimaria
+166,insegnanti qualificati
+167,educazione della prima infanzia
+168,disparità di genere nell'istruzione
+169,opportunità di apprendimento
+170,formazione professionale
+171,educazione di qualità
+172,educazione alla sostenibilità
+173,parità di accesso
+174,inclusione ed educazione
+175,neurodiverso
+176,formazione degli insegnanti
+177,istruzione elementare
+178,disabilità e istruzione
+179,strutture educative
+180,uguale istruzione
+181,rifugiati e apprendimento
+182,completamento della scuola primaria
+183,capacità professionali
+184,iscrizione scolastica
+185,educazione di base
+186,accesso all'istruzione
+187,violenza contro le donne
+188,genere e discriminazione
+189,violenza di genere
+190,parità dei sessi
+191,leader femminile
+192,responsabilizzare le donne
+193,lavori domestici
+194,violenza e ragazze
+195,violenza e donne
+196,uguaglianza/parità di genere
+197,umanitario
+198,sfruttamento e ragazze
+199,sfruttamento sessuale
+200,autorizzare le ragazze
+201,contraccezione
+202,empowerment e donne
+203,emancipazione femminile
+204,lgbtqi
+205,diritti di riproduzione
+206,diritti delle donne
+207,potenziamento
+208,emancipazione femminile
+209,matrimonio forzato
+210,tratta di esseri umani
+211,responsabilizzare le ragazze
+212,salute sessuale
+213,disparità di genere
+214,emarginato
+215,potenziare le donne
+216,potere e donne
+217,sfruttamento e donne
+218,mutilazione genitale femminile
+219,femminismo
+220,governo e genere
+221,potenziamento delle donne
+222,matrimonio infantile
+223,discriminazione di genere
+224,pari opportunità
+225,pari opportunità
+226,donne al lavoro
+227,contraccettivo
+228,cure non retribuite
+229,violenza sessuale
+230,parità di genere
+231,salute sessuale e riproduttiva
+232,uguaglianza sul posto di lavoro
+233,violenza del partner
+234,integrazione sociale
+235,violenza contro le ragazze
+236,diritti umani
+237,bevendo acqua
+238,acqua pulita
+239,scarsità d'acqua
+240,ecosistemi acquatici
+241,gestione delle risorse idriche
+242,siccità
+243,acqua inadeguata
+244,trattamento delle acque reflue
+245,irrigazione
+246,gestione delle acque reflue
+247,protezione dell'ecosistema
+248,gestione igienico-sanitaria
+249,gestione sostenibile dell'acqua
+250,disastri idrici
+251,ecosistemi legati all'acqua
+252,malattie diarroiche
+253,acqua accessibile
+254,approvvigionamento idrico inadeguato
+255,servizi igienico-sanitari
+256,raccolta dell'acqua
+257,ripristino dell'ecosistema
+258,risorse idriche
+259,uso dell'acqua
+260,efficienza nell'uso dell'acqua
+261,ritiri sostenibili
+262,acqua riciclata
+263,gestione delle risorse idriche
+264,bacini fluviali
+265,acqua contaminata
+266,acqua potabile sicura
+267,qualità dell'acqua
+268,igiene equa
+269,migliorare l'acqua
+270,accesso all'acqua
+271,efficienza idrica
+272,ecosistema acquatico
+273,fornitura d'acqua
+274,stress idrico
+275,acqua potabile a prezzi accessibili
+276,igiene e igiene
+277,dissalazione
+278,acque reflue non trattate
+279,acque reflue
+280,infrastruttura elettrica
+281,energia rinnovabile
+282,economia verde
+283,ricerca energetica
+284,energia idroelettrica
+285,obiettivo climatico
+286,combustibili puliti
+287,efficienza energetica
+288,energia conveniente
+289,tecnologia energetica
+290,elettricità moderna
+291,sostenibile e di potere
+292,accesso elettrico
+293,carburante pulito
+294,produzione di energia rinnovabile
+295,idroelettrico
+296,rinnovabile
+297,energia affidabile
+298,servizi energetici sostenibili
+299,energia rinnovabile
+300,turbina eolica
+301,sostenibile ed energetico
+302,solare
+303,combustibile fossile
+304,energia eolica
+305,tecnologia per l'energia pulita
+306,energia moderna
+307,potere sostenibile
+308,energia solare
+309,energia universale
+310,prezzo dell'energia
+311,fonte rinnovabile
+312,pannelli solari
+313,energia alternativa
+314,energia sostenibile
+315,infrastruttura energetica
+316,potenza dell'onda
+317,energia solare
+318,emissioni di gas serra
+319,consumo di energia
+320,tecnologia dei combustibili fossili più pulita
+321,gas serra
+322,gas naturale
+323,batteria al litio
+324,energia eolica
+325,energia pulita
+326,tecnologia del carburante pulito
+327,mix energetico
+328,lavoro minorile
+329,crescita del prodotto interno lordo
+330,disaccoppia la crescita economica
+331,lavoratori migranti
+332,disoccupazione giovanile
+333,opportunità di lavoro
+334,accesso ai finanziamenti
+335,creatività e innovazione
+336,lavori ben pagati
+337,occupazione produttiva
+338,parità di retribuzione
+339,lavoro precario
+340,schiavitù moderna
+341,ordine pubblico
+342,un lavoro dignitoso per tutti
+343,lavoro decente
+344,crescita economica sostenibile
+345,politica orientata allo sviluppo
+346,disoccupazione
+347,occupazione giovanile
+348,lavori di qualità
+349,lavoro informale
+350,turismo sostenibile
+351,crescita economica
+352,lavoro sicuro
+353,prodotto interno lordo
+354,diritti del lavoro
+355,schiavitù
+356,personale occasionale
+357,consumo sostenibile
+358,donne migranti
+359,lavoro migrante
+360,lavori stabili
+361,lavoro stabile
+362,diritti del lavoro
+363,l'efficienza delle risorse
+364,crescita del pil
+365,mercato del lavoro
+366,produzione sostenibile
+367,aiuto per lo sviluppo
+368,imprenditoria
+369,lavoro sicuro
+370,microfinanza
+371,creazione di posti di lavoro
+372,produttività economica
+373,imprenditorialità e innovazione
+374,commercio globale
+375,bambini soldato
+376,politiche sociali
+377,lavoro forzato
+378,commercio mondiale
+379,servizi finanziari
+380,crescita economica inclusiva
+381,efficienza globale delle risorse
+382,aiuti al commercio
+383,capacità di ricerca
+384,sviluppo industriale sostenibile
+385,infrastruttura sostenibile
+386,4g
+387,accesso ad internet
+388,infrastruttura regionale
+389,diversificazione industriale
+390,credito accessibile
+391,imprese
+392,accesso a internet
+393,capacità tecnologiche
+394,catene del valore
+395,banche dati
+396,tecnologie rispettose dell'ambiente
+397,servizio telefonico
+398,tecnologia dell'informazione e della comunicazione
+399,infrastrutture transfrontaliere
+400,energia elettrica
+401,innovazione
+402,efficienza nell'uso delle risorse
+403,promuovere l'innovazione
+404,infrastruttura resiliente
+405,infrastruttura di rete
+406,ricerca e innovazione
+407,capacità tecnologica
+408,capacità di ricerca
+409,sviluppo economico
+410,lavoro manifatturiero
+411,rete mobile
+412,industrializzazione
+413,infrastrutture ict
+414,reti mobili nei paesi in via di sviluppo
+415,catene del valore e mercati
+416,tecnologie pulite
+417,5g
+418,industrie ad alta tecnologia
+419,produzione manifatturiera globale
+420,reti mobili
+421,tecnologia delle comunicazioni
+422,industrializzazione sostenibile
+423,infrastruttura internet
+424,capitale sociale
+425,nazioni vulnerabili
+426,disuguaglianza
+427,discriminazione
+428,azione affermativa
+429,migrante
+430,disabilità
+431,investimento straniero
+432,migrazione e mobilità
+433,colmare il divario
+434,classe sociale
+435,disparità di reddito
+436,disabilità
+437,crescita del reddito
+438,assistenza allo sviluppo
+439,razzismo
+440,ridurre le disuguaglianze
+441,alloggi a prezzi accessibili
+442,ageismo
+443,disuguaglianze
+444,diversità e inclusione
+445,classismo
+446,salute indigena
+447,politica migratoria
+448,omofobia
+449,sessismo
+450,migrazione
+451,eliminazione della discriminazione
+452,discriminatorio
+453,crescita demografica
+454,socio-economico
+455,sesso e disuguaglianza
+456,inclusione economica
+457,razza e discriminazione
+458,stato socioeconomico
+459,aiuti esteri
+460,disparità di reddito
+461,mercati finanziari globali
+462,uguaglianza
+463,rimessa migranti
+464,uguaglianza indigena
+465,cambiamento climatico
+466,urbanizzazione sostenibile
+467,consumo di suolo
+468,urbanizzazione sostenibile (ho aggiunto sostenibile)
+469,oltre l'affollamento
+470,pianificazione della citta
+471,città sicure
+472,edilizia sostenibile
+473,urbanistica
+474,edifici sostenibili
+475,trasporto sostenibile
+476,molestie fisiche o sessuali
+477,arti e patrimonio
+478,baracca
+479,eredità culturale
+480,accordi informali
+481,città intelligenti
+482,edifici resilienti
+483,inquinamento dell'aria
+484,sovraffollamento
+485,pianificazione urbana
+486,urbanizzazione
+487,comunità sostenibili
+488,alloggio sicuro
+489,strategia rurale
+490,sostenibile e comunità
+491,città sostenibile
+492,strategia del disastro
+493,spazi pubblici
+494,esigenze di risorse
+495,eredità naturale
+496,alloggi inadeguati
+497,particolato fine
+498,disastri naturali
+499,danni da inondazione
+500,sostenibilità urbana
+501,pianificazione dello sviluppo
+502,sicurezza stradale
+503,gestione delle catastrofi
+504,disastro naturale
+505,politiche urbane
+506,gestione dei rifiuti
+507,riduzione del rischio di catastrofi
+508,baraccopoli
+509,trasporto pubblico
+510,materiale locale
+511,strategia di riduzione del rischio
+512,sostenibile e città
+513,insediamenti umani
+514,spazi verdi
+515,gestione dei rifiuti urbani
+516,sviluppo urbano
+517,eredità
+518,qualità dell'aria
+519,città sostenibili
+520,inquinamento chimico
+521,rifiuti agricoli
+522,ridurre la produzione di rifiuti
+523,profonda decarbonizzazione
+524,appalti verdi
+525,acquisti verdi
+526,strategia di sostenibilità
+527,filiere di produzione responsabili
+528,uso efficiente delle risorse
+529,gestione responsabile
+530,imprese commerciali
+531,approvvigionamento alimentare
+532,monitoraggio dello sviluppo sostenibile
+533,prova futura
+534,riduci gli sprechi
+535,moda veloce
+536,perdite di raccolto
+537,consumo responsabile
+538,spreco alimentare globale
+539,uso sostenibile delle risorse
+540,appalti sostenibili
+541,rifiuti edili
+542,pratiche sostenibili
+543,sussidi ai combustibili fossili
+544,filiera sostenibile
+545,bilancio di sostenibilità
+546,risorse naturali
+547,riciclare
+548,gas serra
+549,distorsioni del mercato
+550,consumo dispendioso
+551,perdite di cibo
+552,economia circolare
+553,consumismo
+554,risorsa naturale
+555,materialismo
+556,sussidi ai combustibili fossili
+557,acquisti sostenibili
+558,capacità di generazione di energia rinnovabile
+559,appalti pubblici sostenibili
+560,gestione sostenibile
+561,consumo di energia
+562,consumo eccessivo
+563,raccolta differenziata
+564,profonda decarbonizzazione
+565,livelli di consumo
+566,beni materiali
+567,adattamento climatico
+568,politica sui cambiamenti climatici
+569,resilienza e capacità di adattamento
+570,eventi meteorologici estremi
+571,mitigazione climatica
+572,emissioni di carbonio
+573,emissioni di metano
+574,temperatura media globale
+575,clima e politica
+576,aumento della temperatura
+577,cattura di co2
+578,incendio forestale
+579,impatto sul clima
+580,economia a basse emissioni di carbonio
+581,cambiando i modelli meteorologici
+582,temperatura globale
+583,gestione del cambiamento climatico
+584,pericoli climatici
+585,allerta precoce per il clima
+586,mare in aumento
+587,tempo estremo
+588,clima e malattie infettive
+589,resilienza climatica
+590,innalzamento del livello del mare
+591,pianificazione del cambiamento climatico
+592,il riscaldamento globale
+593,emissioni di gas serra (ho aggiunto emissioni di gas)
+594,azione per il clima
+595,clima e genere
+596,l'innalzamento del livello del mare
+597,pericoli legati al clima
+598,riscaldamento dell'oceano
+599,conversione di co2
+600,emissioni di ossido di azoto
+601,poliziotto 26
+602,profughi climatici
+603,temperatura in aumento
+604,mitigazione del carbonio
+605,perdita di ghiaccio
+606,temperatura media globale
+607,accordo di parigi
+608,gas serra
+609,barriera corallina
+610,acquacoltura
+611,sfruttamento eccessivo e pesce
+612,protezione costiera
+613,sussidi alla pesca
+614,pesca sostenibile
+615,oceani sani
+616,pescatori artigianali
+617,riserve di pesce
+618,habitat costieri
+619,stock ittici e gestione della pesca
+620,pratiche di pesca
+621,parchi marini
+622,ecosistemi sostenibili
+623,licenza di pesca
+624,oceanografia
+625,pesca illegale
+626,sbiancamento dei coralli
+627,pesca marina
+628,acidificazione oceanica
+629,ecosistema marino
+630,inquinamento marino
+631,ecosistemi marini
+632,biodiversità costiera
+633,conservazione degli oceani
+634,biodiversità marina
+635,vita marina
+636,uso sostenibile dell'oceano
+637,proteggere il mare
+638,aree protette
+639,gestione dell'ecosistema
+640,oceani produttivi
+641,pesca non regolamentata
+642,detriti marini
+643,temperatura dell'oceano
+644,tecnologia marina
+645,preservare gli oceani
+646,mare sano
+647,salute dell'oceano
+648,risorse marine
+649,pesca eccessiva
+650,parchi costieri
+651,ecosistema costiero
+652,risorse costiere
+653,ecosistemi costieri
+654,conservazione
+655,specie aliena invasiva
+656,ribelle
+657,degrado del suolo
+658,silvicoltura sostenibile
+659,deforestazione
+660,ecosistema
+661,sottospecie
+662,perdita di habitat
+663,habitat naturali
+664,ecosistemi di montagna
+665,gestire le foreste
+666,rimboschimento
+667,rimboschimento
+668,piano strategico per la biodiversità
+669,zone umide
+670,gestione forestale
+671,biodiversità
+672,traffico illecito
+673,conservazione del territorio
+674,specie invasive
+675,risorse genetiche
+676,ecosistemi terrestri
+677,estinzione
+678,flora protetta
+679,degrado del suolo
+680,conservazione della biodiversità
+681,permacultura
+682,specie protetta
+683,specie aliena
+684,foreste gestite
+685,gestire la foresta
+686,ripristino del terreno
+687,foresta sostenibile
+688,prodotti illegali della fauna selvatica
+689,uso del suolo e sostenibilità
+690,desertificazione
+691,animali selvatici
+692,perdita di biodiversità
+693,terre aride
+694,specie minacciata
+695,terra arabile
+696,microrganismi
+697,ecosistemi di acqua dolce
+698,fauna protetta
+699,perdita di terra
+700,conservazione delle zone umide
+701,specie estinta
+702,bracconaggio
+703,corrompere
+704,corruzione
+705,flussi finanziari illeciti
+706,detenzione arbitraria
+707,crimine d'odio
+708,risoluzione del conflitto
+709,inclusione
+710,scomparsa forzata
+711,armi illegali
+712,istituto responsabile
+713,società inclusiva
+714,giustizia per tutti
+715,detenuti non condannati
+716,evasione delle tasse
+717,beni rubati
+718,abuso psicologico
+719,combattere il terrorismo
+720,società inclusive
+721,crimine
+722,violenza
+723,norma di legge
+724,criminalità organizzata
+725,minacce alla sicurezza
+726,corruzione
+727,abuso fisico
+728,vittime di violenza
+729,istituzioni responsabili
+730,istituzioni inclusive
+731,processo decisionale rappresentativo
+732,abuso sessuale
+733,detenuti non condannati
+734,sfruttamento
+735,processo decisionale rappresentativo
+736,identità legale
+737,società pacifiche
+738,violenza contro donne e bambini
+739,tortura
+740,flusso di armi
+741,trasparenza
+742,istituzione trasparente
+743,giustizia
+744,crimine organizzato
+745,sistema legale
+746,terrorismo
+747,libertà fondamentale
+748,principi di parigi
+749,deceduti
+750,armi
+751,tassi di violenza
+752,sicurezza nazionale
+753,sequestro di armi
+754,prevenire la violenza
+755,dislocato internamente
+756,traffico di armi
+757,istituzioni forti
+758,governo globale
+759,società instabili
+760,arma
+761,riciclaggio di denaro
+762,partnership multi-stakeholder
+763,capacità di costruzione
+764,organizzazione mondiale del commercio
+765,accordi di cooperazione scientifica
+766,tecnologie della comunicazione
+767,sostenibilità del debito
+768,cooperazione internazionale
+769,commercio equo e solidale
+770,agenda per lo sviluppo di doha
+771,trasferimento tecnologico
+772,partenariato globale per lo sviluppo sostenibile
+773,sostenibilità finanziaria
+774,paesi in via di sviluppo
+775,collaborazione per la sostenibilità
+776,sostegno internazionale ai paesi in via di sviluppo
+777,edificio di capacità
+778,media tariffaria ponderata
+779,aiuto internazionale
+780,sostegno internazionale
+781,stabilità macroeconomica globale
+782,condivisione della conoscenza
+783,partenariato per la sostenibilità
+784,multistakeholder
+785,partenariato globale
+786,popolazione internazionale
+787,partenariato pubblico-privato
+788,accordi di cooperazione tecnologica
+789,partenariato pubblico-privato
+790,libero scambio
+791,assistere i paesi in via di sviluppo
+792,unioni della società civile
+793,impegni di assistenza allo sviluppo
+794,facilitazione dell'accesso al mercato
+795,principi fondamentali della statistica ufficiale
+796,più parti interessate
+797,investimenti diretti esteri
+798,stabilità globale
+799,stabilità macroeconomica
+800,censimento internazionale della popolazione e delle abitazioni
+801,collaborazione internazionale
